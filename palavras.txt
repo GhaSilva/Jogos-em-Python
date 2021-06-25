@@ -1,3 +1,12 @@
 banana
 melancia
 morango
+Abacate
+maça
+goiaba
+maracuja
+jabuticaba
+uva
+graviola
+pitanga
+guarana
